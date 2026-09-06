@@ -3,15 +3,6 @@
 Write simple programs in plain English and watch them execute step by step.
 Runs entirely on your machine — no API keys, no internet connection, no external AI calls.
 
-## Setup
-
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
-
-Then open http://localhost:8501 in your browser.
-
 ## What you can write
 
 - `Create x with 10.` / `Set x to 10.`
