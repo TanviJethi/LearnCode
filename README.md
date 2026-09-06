@@ -1,4 +1,4 @@
-# LearnCode - Programming by Logic (Local Edition)
+# LearnCode - Programming by Logic
 
 Write simple programs in plain English and watch them execute step by step.
 Runs entirely on your machine — no API keys, no internet connection, no external AI calls.
