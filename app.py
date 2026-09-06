@@ -6,7 +6,7 @@ Fully local: no external API calls, no internet connection required.
 """
 import streamlit as st
 from interpreter import ProgramInterpreter
-from parser import parse_program, ir_to_python, ir_to_cpp, ir_to_java, SYNTAX_GUIDE, ParseError, LEVELS
+from code_parser import parse_program, ir_to_python, ir_to_cpp, ir_to_java, SYNTAX_GUIDE, ParseError, LEVELS
 
 st.set_page_config(page_title="LearnCode - Programming by Logic", page_icon="🧠", layout="wide", initial_sidebar_state="expanded")
 
